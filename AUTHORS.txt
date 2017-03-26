@@ -1,0 +1,14 @@
+
+Gemstone Authors
+================
+
+Gemstone Owner
+--------------
+
+Ralf S. Engelschall <rse@engelschall.com>
+
+Gemstone Developers
+-------------------
+
+Ralf S. Engelschall <rse@engelschall.com>
+
