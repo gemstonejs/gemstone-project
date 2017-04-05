@@ -1,0 +1,35 @@
+##
+##  GemstoneJS -- Gemstone JavaScript Technology Stack
+##  Copyright (c) 2016-2017 Gemstone Project <http://gemstonejs.com>
+##  Licensed under Apache License 2.0 <https://spdx.org/licenses/Apache-2.0>
+##
+
+rse                          OWNER DEVELOPER
+
+gemstone-config              REPO PKG
+gemstone-config-eslint       REPO PKG
+gemstone-config-htmlhint     REPO PKG
+gemstone-config-stylelint    REPO PKG
+gemstone-linter-css          REPO PKG
+gemstone-linter-html         REPO PKG
+gemstone-linter-js           REPO PKG
+gemstone-linter-json         REPO PKG
+gemstone-linter-yaml         REPO PKG
+gemstone-loader-css          REPO PKG
+gemstone-loader-html         REPO PKG
+gemstone-loader-js           REPO PKG
+gemstone-loader-json         REPO PKG
+gemstone-loader-yaml         REPO PKG
+gemstone-config-webpack      REPO PKG
+gemstone-tool                REPO PKG
+gemstone-tool-frontend       REPO PKG
+gemstone-tool-backend        REPO PKG
+gemstone-tool-generator      REPO PKG
+gemstone-framework-frontend  REPO PKG
+gemstone-framework-backend   REPO PKG
+gemstone-stub                REPO PKG
+gemstone-skeleton            REPO PKG
+gemstone-project             REPO
+gemstone-artwork             REPO
+gemstone-website             REPO
+
