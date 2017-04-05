@@ -16,7 +16,7 @@ Development Environment
 ```
 $ mkdir gemstone
 $ cd gemstone
-$ git clone https://github.com/gemstonejs/gemstone-project.git
+$ git clone ssh://github.com/gemstonejs/gemstone-project.git
 $ sh gemstone-project/etc/1-clone-repositories.sh
 $ sh gemstone-project/etc/2-symlink-package.sh
 ```
