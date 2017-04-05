@@ -10,6 +10,17 @@ About
 This is the information hub for the Gemstone Project.<br/>
 Here you can find [License](LICENSE.txt) and [Authors](AUTHORS.txt) information.
 
+Development Environment
+-----------------------
+
+```
+$ mkdir gemstone
+$ cd gemstone
+$ git clone https://github.com/gemstonejs/gemstone-project.git
+$ sh gemstone-project/etc/1-clone-repositories.sh
+$ sh gemstone-project/etc/2-symlink-package.sh
+```
+
 Copyright &amp; License
 -----------------------
 
