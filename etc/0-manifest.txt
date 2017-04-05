@@ -5,6 +5,7 @@
 ##
 
 rse                          OWNER DEVELOPER
+engelscr                     OWNER DEVELOPER
 
 gemstone-config              REPO PKG
 gemstone-config-eslint       REPO PKG
@@ -28,7 +29,7 @@ gemstone-tool-generator      REPO PKG
 gemstone-framework-frontend  REPO PKG
 gemstone-framework-backend   REPO PKG
 gemstone-stub                REPO PKG
-gemstone-skeleton            REPO PKG
+gemstone-skeleton                 PKG
 gemstone-project             REPO
 gemstone-artwork             REPO
 gemstone-website             REPO
