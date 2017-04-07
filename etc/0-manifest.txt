@@ -9,16 +9,19 @@ engelscr                     OWNER DEVELOPER
 
 gemstone-config              REPO PKG
 gemstone-config-eslint       REPO PKG
+gemstone-config-tslint       REPO PKG
 gemstone-config-htmlhint     REPO PKG
 gemstone-config-stylelint    REPO PKG
 gemstone-linter-css          REPO PKG
 gemstone-linter-html         REPO PKG
 gemstone-linter-js           REPO PKG
+gemstone-linter-ts           REPO PKG
 gemstone-linter-json         REPO PKG
 gemstone-linter-yaml         REPO PKG
 gemstone-loader-css          REPO PKG
 gemstone-loader-html         REPO PKG
 gemstone-loader-js           REPO PKG
+gemstone-loader-ts           REPO PKG
 gemstone-loader-json         REPO PKG
 gemstone-loader-yaml         REPO PKG
 gemstone-config-webpack      REPO PKG
