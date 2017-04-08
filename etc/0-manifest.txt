@@ -24,6 +24,7 @@ gemstone-loader-js           REPO PKG
 gemstone-loader-ts           REPO PKG
 gemstone-loader-json         REPO PKG
 gemstone-loader-yaml         REPO PKG
+gemstone-loader-ucid         REPO PKG
 gemstone-config-webpack      REPO PKG
 gemstone-tool                REPO PKG
 gemstone-tool-frontend       REPO PKG
