@@ -28,7 +28,7 @@
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2017-04-22 12:31:54 +0000</string>
+	<string>2017-04-22 12:34:51 +0000</string>
 	<key>Modifier</key>
 	<string>Ralf S. Engelschall</string>
 	<key>MovementHandleVisible</key>
@@ -64,7 +64,7 @@
 		<key>NSPaperSize</key>
 		<array>
 			<string>size</string>
-			<string>{841.8897705078125, 595.27557373046875}</string>
+			<string>{841.8897705078125, 595.27557277679443}</string>
 		</array>
 		<key>NSPrintReverseOrientation</key>
 		<array>
@@ -99,7 +99,7 @@
 			<key>BackgroundGraphic</key>
 			<dict>
 				<key>Bounds</key>
-				<string>{{0, 0}, {1821, 1808.5}}</string>
+				<string>{{0, 0}, {1923.8889398545407, 1281.1111450489666}}</string>
 				<key>Class</key>
 				<string>ShapedGraphic</string>
 				<key>ID</key>
@@ -132,7 +132,7 @@
 			<array>
 				<dict>
 					<key>Bounds</key>
-					<string>{{528.09449298045763, 357.44882214082509}, {68.385826820519867, 42.519685425157604}}</string>
+					<string>{{518.45669761742181, 269.43307412733242}, {63, 36}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FontInfo</key>
@@ -150,7 +150,95 @@
 						<real>10</real>
 					</dict>
 					<key>ID</key>
-					<integer>65</integer>
+					<integer>66</integer>
+					<key>Style</key>
+					<dict>
+						<key>fill</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.87376399999999999</real>
+								<key>g</key>
+								<real>0.55244800000000005</real>
+								<key>r</key>
+								<real>0.21176300000000001</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>FillType</key>
+							<integer>2</integer>
+							<key>GradientAngle</key>
+							<real>90</real>
+							<key>GradientColor</key>
+							<dict>
+								<key>b</key>
+								<string>0.698759</string>
+								<key>g</key>
+								<string>0.402515</string>
+								<key>r</key>
+								<string>0.0659166</string>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+						</dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>stroke</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.260521</real>
+								<key>g</key>
+								<real>0.26052399999999998</real>
+								<key>r</key>
+								<real>0.260517</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>Width</key>
+							<real>0.20000000298023224</real>
+						</dict>
+					</dict>
+					<key>Text</key>
+					<dict>
+						<key>Text</key>
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf820
+{\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
+
+\f0\fs20 \cf1 gemstone\
+loader\
+ucid}</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Bounds</key>
+					<string>{{514.84252378467488, 357.02362610315714}, {68.385826820519867, 42.519685425157604}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>FontInfo</key>
+					<dict>
+						<key>Color</key>
+						<dict>
+							<key>b</key>
+							<string>1</string>
+							<key>g</key>
+							<string>1</string>
+							<key>r</key>
+							<string>1</string>
+						</dict>
+						<key>Size</key>
+						<real>10</real>
+					</dict>
+					<key>ID</key>
+					<integer>3</integer>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -196,7 +284,7 @@
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{456.30709132592517, 357.44882214082509}, {68.385826820519867, 87.023622836822597}}</string>
+					<string>{{443.05512213014242, 357.02362610315714}, {68.385826820519867, 87.023622836822597}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FontInfo</key>
@@ -214,7 +302,7 @@
 						<real>10</real>
 					</dict>
 					<key>ID</key>
-					<integer>64</integer>
+					<integer>4</integer>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -260,7 +348,7 @@
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{384.30709067265832, 357.44882214082509}, {68.385826820519867, 222.51968705832485}}</string>
+					<string>{{371.05512147687557, 357.02362610315714}, {68.385826820519867, 222.51968705832485}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FontInfo</key>
@@ -278,7 +366,7 @@
 						<real>10</real>
 					</dict>
 					<key>ID</key>
-					<integer>63</integer>
+					<integer>5</integer>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -324,7 +412,7 @@
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{312.02362544989035, 357.44882214082509}, {68.385826820519867, 176.59842679915459}}</string>
+					<string>{{298.7716562541076, 357.02362610315714}, {68.385826820519867, 176.59842679915459}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FontInfo</key>
@@ -342,7 +430,7 @@
 						<real>10</real>
 					</dict>
 					<key>ID</key>
-					<integer>62</integer>
+					<integer>6</integer>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -388,7 +476,7 @@
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{241.15748307462763, 357.44882214082509}, {68.385826820519867, 132.66141852649179}}</string>
+					<string>{{227.90551387884494, 357.02362610315714}, {68.385826820519867, 132.66141852649179}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FontInfo</key>
@@ -406,7 +494,7 @@
 						<real>10</real>
 					</dict>
 					<key>ID</key>
-					<integer>61</integer>
+					<integer>7</integer>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -452,7 +540,7 @@
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{167.74015957385546, 357.44882214082509}, {68.385826820519867, 132.66141852649179}}</string>
+					<string>{{154.48819037807277, 357.02362610315714}, {68.385826820519867, 132.66141852649179}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FontInfo</key>
@@ -470,7 +558,7 @@
 						<real>10</real>
 					</dict>
 					<key>ID</key>
-					<integer>60</integer>
+					<integer>8</integer>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -516,7 +604,7 @@
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{96.023623490089591, 357.44882214082509}, {68.385826820519867, 132.66141852649179}}</string>
+					<string>{{82.77165429430687, 357.02362610315714}, {68.385826820519867, 132.66141852649179}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FontInfo</key>
@@ -534,7 +622,7 @@
 						<real>10</real>
 					</dict>
 					<key>ID</key>
-					<integer>59</integer>
+					<integer>9</integer>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -580,7 +668,7 @@
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{312.02362544989029, 266.17323108812013}, {213.51968640505794, 88.157480788193368}}</string>
+					<string>{{82.771654294306842, 265.74803505045219}, {213.51968640505794, 88.157480788193368}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FontInfo</key>
@@ -598,7 +686,7 @@
 						<real>10</real>
 					</dict>
 					<key>ID</key>
-					<integer>58</integer>
+					<integer>11</integer>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -644,7 +732,7 @@
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{96.023623490089562, 266.17323108812013}, {213.51968640505794, 88.157480788193368}}</string>
+					<string>{{445.74803080421725, 314.57480396233206}, {63, 36}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FontInfo</key>
@@ -662,71 +750,7 @@
 						<real>10</real>
 					</dict>
 					<key>ID</key>
-					<integer>57</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Color</key>
-							<dict>
-								<key>b</key>
-								<real>0.87376399999999999</real>
-								<key>g</key>
-								<real>0.55244800000000005</real>
-								<key>r</key>
-								<real>0.21176300000000001</real>
-								<key>space</key>
-								<string>srgb</string>
-							</dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Color</key>
-							<dict>
-								<key>b</key>
-								<real>0.260521</real>
-								<key>g</key>
-								<real>0.26052399999999998</real>
-								<key>r</key>
-								<real>0.260517</real>
-								<key>space</key>
-								<string>srgb</string>
-							</dict>
-							<key>Pattern</key>
-							<integer>24</integer>
-							<key>Width</key>
-							<real>0.5</real>
-						</dict>
-					</dict>
-				</dict>
-				<dict>
-					<key>Bounds</key>
-					<string>{{459, 315}, {63, 36}}</string>
-					<key>Class</key>
-					<string>ShapedGraphic</string>
-					<key>FontInfo</key>
-					<dict>
-						<key>Color</key>
-						<dict>
-							<key>b</key>
-							<string>1</string>
-							<key>g</key>
-							<string>1</string>
-							<key>r</key>
-							<string>1</string>
-						</dict>
-						<key>Size</key>
-						<real>10</real>
-					</dict>
-					<key>ID</key>
-					<integer>56</integer>
+					<integer>12</integer>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -796,7 +820,7 @@ ts}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{243, 315}, {63, 36}}</string>
+					<string>{{229.74803080421731, 314.57480396233206}, {63, 36}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FontInfo</key>
@@ -814,7 +838,7 @@ ts}</string>
 						<real>10</real>
 					</dict>
 					<key>ID</key>
-					<integer>55</integer>
+					<integer>13</integer>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -884,7 +908,7 @@ ts}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{99, 540}, {63, 36}}</string>
+					<string>{{85.748030804217279, 539.57480396233211}, {63, 36}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FontInfo</key>
@@ -902,7 +926,7 @@ ts}</string>
 						<real>10</real>
 					</dict>
 					<key>ID</key>
-					<integer>3</integer>
+					<integer>14</integer>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -971,982 +995,7 @@ config}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{459, 405}, {63, 36}}</string>
-					<key>Class</key>
-					<string>ShapedGraphic</string>
-					<key>FontInfo</key>
-					<dict>
-						<key>Color</key>
-						<dict>
-							<key>w</key>
-							<string>1</string>
-						</dict>
-						<key>Font</key>
-						<string>MyriadPro-Regular</string>
-						<key>NSKern</key>
-						<real>0.0</real>
-						<key>Size</key>
-						<real>10</real>
-					</dict>
-					<key>ID</key>
-					<integer>4</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Color</key>
-							<dict>
-								<key>b</key>
-								<real>0.571353</real>
-								<key>g</key>
-								<real>0.57146200000000003</real>
-								<key>r</key>
-								<real>0.57137899999999997</real>
-								<key>space</key>
-								<string>srgb</string>
-							</dict>
-							<key>FillType</key>
-							<integer>2</integer>
-							<key>GradientAngle</key>
-							<real>90</real>
-							<key>GradientColor</key>
-							<dict>
-								<key>b</key>
-								<string>0.285673</string>
-								<key>g</key>
-								<string>0.285732</string>
-								<key>r</key>
-								<string>0.285687</string>
-								<key>space</key>
-								<string>srgb</string>
-							</dict>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Color</key>
-							<dict>
-								<key>b</key>
-								<real>0.260521</real>
-								<key>g</key>
-								<real>0.26052399999999998</real>
-								<key>r</key>
-								<real>0.260517</real>
-								<key>space</key>
-								<string>srgb</string>
-							</dict>
-							<key>Width</key>
-							<real>0.20000000298023221</real>
-						</dict>
-					</dict>
-					<key>Text</key>
-					<dict>
-						<key>Pad</key>
-						<real>0.0</real>
-						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf820
-{\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
-
-\f0\fs20 \cf1 \expnd0\expndtw0\kerning0
-Babel\
-Preset\
-XXX}</string>
-					</dict>
-				</dict>
-				<dict>
-					<key>Bounds</key>
-					<string>{{315, 495}, {63, 36}}</string>
-					<key>Class</key>
-					<string>ShapedGraphic</string>
-					<key>FontInfo</key>
-					<dict>
-						<key>Color</key>
-						<dict>
-							<key>b</key>
-							<string>1</string>
-							<key>g</key>
-							<string>1</string>
-							<key>r</key>
-							<string>1</string>
-						</dict>
-						<key>Size</key>
-						<real>10</real>
-					</dict>
-					<key>ID</key>
-					<integer>5</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Color</key>
-							<dict>
-								<key>b</key>
-								<real>0.87376399999999999</real>
-								<key>g</key>
-								<real>0.55244800000000005</real>
-								<key>r</key>
-								<real>0.21176300000000001</real>
-								<key>space</key>
-								<string>srgb</string>
-							</dict>
-							<key>FillType</key>
-							<integer>2</integer>
-							<key>GradientAngle</key>
-							<real>90</real>
-							<key>GradientColor</key>
-							<dict>
-								<key>b</key>
-								<string>0.698759</string>
-								<key>g</key>
-								<string>0.402515</string>
-								<key>r</key>
-								<string>0.0659166</string>
-								<key>space</key>
-								<string>srgb</string>
-							</dict>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Color</key>
-							<dict>
-								<key>b</key>
-								<real>0.260521</real>
-								<key>g</key>
-								<real>0.26052399999999998</real>
-								<key>r</key>
-								<real>0.260517</real>
-								<key>space</key>
-								<string>srgb</string>
-							</dict>
-							<key>Width</key>
-							<real>0.20000000298023224</real>
-						</dict>
-					</dict>
-					<key>Text</key>
-					<dict>
-						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf820
-{\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
-
-\f0\fs20 \cf1 Inline\
-Assets}</string>
-					</dict>
-				</dict>
-				<dict>
-					<key>Bounds</key>
-					<string>{{315, 360}, {63, 36}}</string>
-					<key>Class</key>
-					<string>ShapedGraphic</string>
-					<key>FontInfo</key>
-					<dict>
-						<key>Color</key>
-						<dict>
-							<key>w</key>
-							<string>1</string>
-						</dict>
-						<key>Font</key>
-						<string>MyriadPro-Regular</string>
-						<key>NSKern</key>
-						<real>0.0</real>
-						<key>Size</key>
-						<real>10</real>
-					</dict>
-					<key>ID</key>
-					<integer>6</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Color</key>
-							<dict>
-								<key>b</key>
-								<real>0.571353</real>
-								<key>g</key>
-								<real>0.57146200000000003</real>
-								<key>r</key>
-								<real>0.57137899999999997</real>
-								<key>space</key>
-								<string>srgb</string>
-							</dict>
-							<key>FillType</key>
-							<integer>2</integer>
-							<key>GradientAngle</key>
-							<real>90</real>
-							<key>GradientColor</key>
-							<dict>
-								<key>b</key>
-								<string>0.285673</string>
-								<key>g</key>
-								<string>0.285732</string>
-								<key>r</key>
-								<string>0.285687</string>
-								<key>space</key>
-								<string>srgb</string>
-							</dict>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Color</key>
-							<dict>
-								<key>b</key>
-								<real>0.260521</real>
-								<key>g</key>
-								<real>0.26052399999999998</real>
-								<key>r</key>
-								<real>0.260517</real>
-								<key>space</key>
-								<string>srgb</string>
-							</dict>
-							<key>Width</key>
-							<real>0.20000000298023221</real>
-						</dict>
-					</dict>
-					<key>Text</key>
-					<dict>
-						<key>Pad</key>
-						<real>0.0</real>
-						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf820
-{\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
-
-\f0\fs20 \cf1 \expnd0\expndtw0\kerning0
-PostHTML}</string>
-					</dict>
-				</dict>
-				<dict>
-					<key>Bounds</key>
-					<string>{{315, 450}, {63, 36}}</string>
-					<key>Class</key>
-					<string>ShapedGraphic</string>
-					<key>FontInfo</key>
-					<dict>
-						<key>Color</key>
-						<dict>
-							<key>b</key>
-							<string>1</string>
-							<key>g</key>
-							<string>1</string>
-							<key>r</key>
-							<string>1</string>
-						</dict>
-						<key>Size</key>
-						<real>10</real>
-					</dict>
-					<key>ID</key>
-					<integer>7</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Color</key>
-							<dict>
-								<key>b</key>
-								<real>0.87376399999999999</real>
-								<key>g</key>
-								<real>0.55244800000000005</real>
-								<key>r</key>
-								<real>0.21176300000000001</real>
-								<key>space</key>
-								<string>srgb</string>
-							</dict>
-							<key>FillType</key>
-							<integer>2</integer>
-							<key>GradientAngle</key>
-							<real>90</real>
-							<key>GradientColor</key>
-							<dict>
-								<key>b</key>
-								<string>0.698759</string>
-								<key>g</key>
-								<string>0.402515</string>
-								<key>r</key>
-								<string>0.0659166</string>
-								<key>space</key>
-								<string>srgb</string>
-							</dict>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Color</key>
-							<dict>
-								<key>b</key>
-								<real>0.260521</real>
-								<key>g</key>
-								<real>0.26052399999999998</real>
-								<key>r</key>
-								<real>0.260517</real>
-								<key>space</key>
-								<string>srgb</string>
-							</dict>
-							<key>Width</key>
-							<real>0.20000000298023224</real>
-						</dict>
-					</dict>
-					<key>Text</key>
-					<dict>
-						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf820
-{\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
-
-\f0\fs20 \cf1 Style\
-Scope}</string>
-					</dict>
-				</dict>
-				<dict>
-					<key>Bounds</key>
-					<string>{{387, 450}, {63, 36}}</string>
-					<key>Class</key>
-					<string>ShapedGraphic</string>
-					<key>FontInfo</key>
-					<dict>
-						<key>Color</key>
-						<dict>
-							<key>b</key>
-							<string>1</string>
-							<key>g</key>
-							<string>1</string>
-							<key>r</key>
-							<string>1</string>
-						</dict>
-						<key>Size</key>
-						<real>10</real>
-					</dict>
-					<key>ID</key>
-					<integer>8</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Color</key>
-							<dict>
-								<key>b</key>
-								<real>0.87376399999999999</real>
-								<key>g</key>
-								<real>0.55244800000000005</real>
-								<key>r</key>
-								<real>0.21176300000000001</real>
-								<key>space</key>
-								<string>srgb</string>
-							</dict>
-							<key>FillType</key>
-							<integer>2</integer>
-							<key>GradientAngle</key>
-							<real>90</real>
-							<key>GradientColor</key>
-							<dict>
-								<key>b</key>
-								<string>0.698759</string>
-								<key>g</key>
-								<string>0.402515</string>
-								<key>r</key>
-								<string>0.0659166</string>
-								<key>space</key>
-								<string>srgb</string>
-							</dict>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Color</key>
-							<dict>
-								<key>b</key>
-								<real>0.260521</real>
-								<key>g</key>
-								<real>0.26052399999999998</real>
-								<key>r</key>
-								<real>0.260517</real>
-								<key>space</key>
-								<string>srgb</string>
-							</dict>
-							<key>Width</key>
-							<real>0.20000000298023224</real>
-						</dict>
-					</dict>
-					<key>Text</key>
-					<dict>
-						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf820
-{\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
-
-\f0\fs20 \cf1 Style\
-Scope}</string>
-					</dict>
-				</dict>
-				<dict>
-					<key>Bounds</key>
-					<string>{{387, 540}, {63, 36}}</string>
-					<key>Class</key>
-					<string>ShapedGraphic</string>
-					<key>FontInfo</key>
-					<dict>
-						<key>Color</key>
-						<dict>
-							<key>w</key>
-							<string>1</string>
-						</dict>
-						<key>Font</key>
-						<string>MyriadPro-Regular</string>
-						<key>NSKern</key>
-						<real>0.0</real>
-						<key>Size</key>
-						<real>10</real>
-					</dict>
-					<key>ID</key>
-					<integer>9</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Color</key>
-							<dict>
-								<key>b</key>
-								<real>0.571353</real>
-								<key>g</key>
-								<real>0.57146200000000003</real>
-								<key>r</key>
-								<real>0.57137899999999997</real>
-								<key>space</key>
-								<string>srgb</string>
-							</dict>
-							<key>FillType</key>
-							<integer>2</integer>
-							<key>GradientAngle</key>
-							<real>90</real>
-							<key>GradientColor</key>
-							<dict>
-								<key>b</key>
-								<string>0.285673</string>
-								<key>g</key>
-								<string>0.285732</string>
-								<key>r</key>
-								<string>0.285687</string>
-								<key>space</key>
-								<string>srgb</string>
-							</dict>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Color</key>
-							<dict>
-								<key>b</key>
-								<real>0.260521</real>
-								<key>g</key>
-								<real>0.26052399999999998</real>
-								<key>r</key>
-								<real>0.260517</real>
-								<key>space</key>
-								<string>srgb</string>
-							</dict>
-							<key>Width</key>
-							<real>0.20000000298023221</real>
-						</dict>
-					</dict>
-					<key>Text</key>
-					<dict>
-						<key>Pad</key>
-						<real>0.0</real>
-						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf820
-{\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
-
-\f0\fs20 \cf1 \expnd0\expndtw0\kerning0
-Autoprefixer}</string>
-					</dict>
-				</dict>
-				<dict>
-					<key>Bounds</key>
-					<string>{{387, 495}, {63, 36}}</string>
-					<key>Class</key>
-					<string>ShapedGraphic</string>
-					<key>FontInfo</key>
-					<dict>
-						<key>Color</key>
-						<dict>
-							<key>w</key>
-							<string>1</string>
-						</dict>
-						<key>Font</key>
-						<string>MyriadPro-Regular</string>
-						<key>NSKern</key>
-						<real>0.0</real>
-						<key>Size</key>
-						<real>10</real>
-					</dict>
-					<key>ID</key>
-					<integer>10</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Color</key>
-							<dict>
-								<key>b</key>
-								<real>0.571353</real>
-								<key>g</key>
-								<real>0.57146200000000003</real>
-								<key>r</key>
-								<real>0.57137899999999997</real>
-								<key>space</key>
-								<string>srgb</string>
-							</dict>
-							<key>FillType</key>
-							<integer>2</integer>
-							<key>GradientAngle</key>
-							<real>90</real>
-							<key>GradientColor</key>
-							<dict>
-								<key>b</key>
-								<string>0.285673</string>
-								<key>g</key>
-								<string>0.285732</string>
-								<key>r</key>
-								<string>0.285687</string>
-								<key>space</key>
-								<string>srgb</string>
-							</dict>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Color</key>
-							<dict>
-								<key>b</key>
-								<real>0.260521</real>
-								<key>g</key>
-								<real>0.26052399999999998</real>
-								<key>r</key>
-								<real>0.260517</real>
-								<key>space</key>
-								<string>srgb</string>
-							</dict>
-							<key>Width</key>
-							<real>0.20000000298023221</real>
-						</dict>
-					</dict>
-					<key>Text</key>
-					<dict>
-						<key>Pad</key>
-						<real>0.0</real>
-						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf820
-{\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
-
-\f0\fs20 \cf1 \expnd0\expndtw0\kerning0
-PreCSS}</string>
-					</dict>
-				</dict>
-				<dict>
-					<key>Bounds</key>
-					<string>{{387, 405}, {63, 36}}</string>
-					<key>Class</key>
-					<string>ShapedGraphic</string>
-					<key>FontInfo</key>
-					<dict>
-						<key>Color</key>
-						<dict>
-							<key>w</key>
-							<string>1</string>
-						</dict>
-						<key>Font</key>
-						<string>MyriadPro-Regular</string>
-						<key>NSKern</key>
-						<real>0.0</real>
-						<key>Size</key>
-						<real>10</real>
-					</dict>
-					<key>ID</key>
-					<integer>11</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Color</key>
-							<dict>
-								<key>b</key>
-								<real>0.571353</real>
-								<key>g</key>
-								<real>0.57146200000000003</real>
-								<key>r</key>
-								<real>0.57137899999999997</real>
-								<key>space</key>
-								<string>srgb</string>
-							</dict>
-							<key>FillType</key>
-							<integer>2</integer>
-							<key>GradientAngle</key>
-							<real>90</real>
-							<key>GradientColor</key>
-							<dict>
-								<key>b</key>
-								<string>0.285673</string>
-								<key>g</key>
-								<string>0.285732</string>
-								<key>r</key>
-								<string>0.285687</string>
-								<key>space</key>
-								<string>srgb</string>
-							</dict>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Color</key>
-							<dict>
-								<key>b</key>
-								<real>0.260521</real>
-								<key>g</key>
-								<real>0.26052399999999998</real>
-								<key>r</key>
-								<real>0.260517</real>
-								<key>space</key>
-								<string>srgb</string>
-							</dict>
-							<key>Width</key>
-							<real>0.20000000298023221</real>
-						</dict>
-					</dict>
-					<key>Text</key>
-					<dict>
-						<key>Pad</key>
-						<real>0.0</real>
-						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf820
-{\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
-
-\f0\fs20 \cf1 \expnd0\expndtw0\kerning0
-CSSNext}</string>
-					</dict>
-				</dict>
-				<dict>
-					<key>Bounds</key>
-					<string>{{531, 360}, {63, 36}}</string>
-					<key>Class</key>
-					<string>ShapedGraphic</string>
-					<key>FontInfo</key>
-					<dict>
-						<key>Color</key>
-						<dict>
-							<key>w</key>
-							<string>1</string>
-						</dict>
-						<key>Font</key>
-						<string>MyriadPro-Regular</string>
-						<key>NSKern</key>
-						<real>0.0</real>
-						<key>Size</key>
-						<real>10</real>
-					</dict>
-					<key>ID</key>
-					<integer>12</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Color</key>
-							<dict>
-								<key>b</key>
-								<real>0.571353</real>
-								<key>g</key>
-								<real>0.57146200000000003</real>
-								<key>r</key>
-								<real>0.57137899999999997</real>
-								<key>space</key>
-								<string>srgb</string>
-							</dict>
-							<key>FillType</key>
-							<integer>2</integer>
-							<key>GradientAngle</key>
-							<real>90</real>
-							<key>GradientColor</key>
-							<dict>
-								<key>b</key>
-								<string>0.285673</string>
-								<key>g</key>
-								<string>0.285732</string>
-								<key>r</key>
-								<string>0.285687</string>
-								<key>space</key>
-								<string>srgb</string>
-							</dict>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Color</key>
-							<dict>
-								<key>b</key>
-								<real>0.260521</real>
-								<key>g</key>
-								<real>0.26052399999999998</real>
-								<key>r</key>
-								<real>0.260517</real>
-								<key>space</key>
-								<string>srgb</string>
-							</dict>
-							<key>Width</key>
-							<real>0.20000000298023221</real>
-						</dict>
-					</dict>
-					<key>Text</key>
-					<dict>
-						<key>Pad</key>
-						<real>0.0</real>
-						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf820
-{\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
-
-\f0\fs20 \cf1 \expnd0\expndtw0\kerning0
-js-YAML}</string>
-					</dict>
-				</dict>
-				<dict>
-					<key>Bounds</key>
-					<string>{{459, 360}, {63, 36}}</string>
-					<key>Class</key>
-					<string>ShapedGraphic</string>
-					<key>FontInfo</key>
-					<dict>
-						<key>Color</key>
-						<dict>
-							<key>w</key>
-							<string>1</string>
-						</dict>
-						<key>Font</key>
-						<string>MyriadPro-Regular</string>
-						<key>NSKern</key>
-						<real>0.0</real>
-						<key>Size</key>
-						<real>10</real>
-					</dict>
-					<key>ID</key>
-					<integer>13</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Color</key>
-							<dict>
-								<key>b</key>
-								<real>0.571353</real>
-								<key>g</key>
-								<real>0.57146200000000003</real>
-								<key>r</key>
-								<real>0.57137899999999997</real>
-								<key>space</key>
-								<string>srgb</string>
-							</dict>
-							<key>FillType</key>
-							<integer>2</integer>
-							<key>GradientAngle</key>
-							<real>90</real>
-							<key>GradientColor</key>
-							<dict>
-								<key>b</key>
-								<string>0.285673</string>
-								<key>g</key>
-								<string>0.285732</string>
-								<key>r</key>
-								<string>0.285687</string>
-								<key>space</key>
-								<string>srgb</string>
-							</dict>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Color</key>
-							<dict>
-								<key>b</key>
-								<real>0.260521</real>
-								<key>g</key>
-								<real>0.26052399999999998</real>
-								<key>r</key>
-								<real>0.260517</real>
-								<key>space</key>
-								<string>srgb</string>
-							</dict>
-							<key>Width</key>
-							<real>0.20000000298023221</real>
-						</dict>
-					</dict>
-					<key>Text</key>
-					<dict>
-						<key>Pad</key>
-						<real>0.0</real>
-						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf820
-{\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
-
-\f0\fs20 \cf1 \expnd0\expndtw0\kerning0
-Babel}</string>
-					</dict>
-				</dict>
-				<dict>
-					<key>Bounds</key>
-					<string>{{387, 360}, {63, 36}}</string>
-					<key>Class</key>
-					<string>ShapedGraphic</string>
-					<key>FontInfo</key>
-					<dict>
-						<key>Color</key>
-						<dict>
-							<key>w</key>
-							<string>1</string>
-						</dict>
-						<key>Font</key>
-						<string>MyriadPro-Regular</string>
-						<key>NSKern</key>
-						<real>0.0</real>
-						<key>Size</key>
-						<real>10</real>
-					</dict>
-					<key>ID</key>
-					<integer>14</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Color</key>
-							<dict>
-								<key>b</key>
-								<real>0.571353</real>
-								<key>g</key>
-								<real>0.57146200000000003</real>
-								<key>r</key>
-								<real>0.57137899999999997</real>
-								<key>space</key>
-								<string>srgb</string>
-							</dict>
-							<key>FillType</key>
-							<integer>2</integer>
-							<key>GradientAngle</key>
-							<real>90</real>
-							<key>GradientColor</key>
-							<dict>
-								<key>b</key>
-								<string>0.285673</string>
-								<key>g</key>
-								<string>0.285732</string>
-								<key>r</key>
-								<string>0.285687</string>
-								<key>space</key>
-								<string>srgb</string>
-							</dict>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Color</key>
-							<dict>
-								<key>b</key>
-								<real>0.260521</real>
-								<key>g</key>
-								<real>0.26052399999999998</real>
-								<key>r</key>
-								<real>0.260517</real>
-								<key>space</key>
-								<string>srgb</string>
-							</dict>
-							<key>Width</key>
-							<real>0.20000000298023221</real>
-						</dict>
-					</dict>
-					<key>Text</key>
-					<dict>
-						<key>Pad</key>
-						<real>0.0</real>
-						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf820
-{\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
-
-\f0\fs20 \cf1 \expnd0\expndtw0\kerning0
-PostCSS}</string>
-					</dict>
-				</dict>
-				<dict>
-					<key>Bounds</key>
-					<string>{{315, 405}, {63, 36}}</string>
+					<string>{{445.74803080421725, 404.57480396233206}, {63, 36}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FontInfo</key>
@@ -2030,27 +1079,27 @@ PostCSS}</string>
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
 
 \f0\fs20 \cf1 \expnd0\expndtw0\kerning0
-Vue\
-Template\
-Compiler}</string>
+Babel\
+Preset\
+XXX}</string>
 					</dict>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{243, 360}, {63, 36}}</string>
+					<string>{{301.74803080421725, 494.57480396233206}, {63, 36}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FontInfo</key>
 					<dict>
 						<key>Color</key>
 						<dict>
-							<key>w</key>
+							<key>b</key>
+							<string>1</string>
+							<key>g</key>
+							<string>1</string>
+							<key>r</key>
 							<string>1</string>
 						</dict>
-						<key>Font</key>
-						<string>MyriadPro-Regular</string>
-						<key>NSKern</key>
-						<real>0.0</real>
 						<key>Size</key>
 						<real>10</real>
 					</dict>
@@ -2063,11 +1112,11 @@ Compiler}</string>
 							<key>Color</key>
 							<dict>
 								<key>b</key>
-								<real>0.571353</real>
+								<real>0.87376399999999999</real>
 								<key>g</key>
-								<real>0.57146200000000003</real>
+								<real>0.55244800000000005</real>
 								<key>r</key>
-								<real>0.57137899999999997</real>
+								<real>0.21176300000000001</real>
 								<key>space</key>
 								<string>srgb</string>
 							</dict>
@@ -2078,11 +1127,11 @@ Compiler}</string>
 							<key>GradientColor</key>
 							<dict>
 								<key>b</key>
-								<string>0.285673</string>
+								<string>0.698759</string>
 								<key>g</key>
-								<string>0.285732</string>
+								<string>0.402515</string>
 								<key>r</key>
-								<string>0.285687</string>
+								<string>0.0659166</string>
 								<key>space</key>
 								<string>srgb</string>
 							</dict>
@@ -2106,13 +1155,11 @@ Compiler}</string>
 								<string>srgb</string>
 							</dict>
 							<key>Width</key>
-							<real>0.20000000298023221</real>
+							<real>0.20000000298023224</real>
 						</dict>
 					</dict>
 					<key>Text</key>
 					<dict>
-						<key>Pad</key>
-						<real>0.0</real>
 						<key>Text</key>
 						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf820
 {\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
@@ -2120,13 +1167,13 @@ Compiler}</string>
 {\*\expandedcolortbl;;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
 
-\f0\fs20 \cf1 \expnd0\expndtw0\kerning0
-ESLint}</string>
+\f0\fs20 \cf1 Inline\
+Assets}</string>
 					</dict>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{171, 360}, {63, 36}}</string>
+					<string>{{301.74803080421725, 359.57480396233206}, {63, 36}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FontInfo</key>
@@ -2210,12 +1257,186 @@ ESLint}</string>
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
 
 \f0\fs20 \cf1 \expnd0\expndtw0\kerning0
-PostCSS}</string>
+PostHTML}</string>
 					</dict>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{171, 405}, {63, 36}}</string>
+					<string>{{301.74803080421725, 449.57480396233206}, {63, 36}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>FontInfo</key>
+					<dict>
+						<key>Color</key>
+						<dict>
+							<key>b</key>
+							<string>1</string>
+							<key>g</key>
+							<string>1</string>
+							<key>r</key>
+							<string>1</string>
+						</dict>
+						<key>Size</key>
+						<real>10</real>
+					</dict>
+					<key>ID</key>
+					<integer>18</integer>
+					<key>Style</key>
+					<dict>
+						<key>fill</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.87376399999999999</real>
+								<key>g</key>
+								<real>0.55244800000000005</real>
+								<key>r</key>
+								<real>0.21176300000000001</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>FillType</key>
+							<integer>2</integer>
+							<key>GradientAngle</key>
+							<real>90</real>
+							<key>GradientColor</key>
+							<dict>
+								<key>b</key>
+								<string>0.698759</string>
+								<key>g</key>
+								<string>0.402515</string>
+								<key>r</key>
+								<string>0.0659166</string>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+						</dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>stroke</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.260521</real>
+								<key>g</key>
+								<real>0.26052399999999998</real>
+								<key>r</key>
+								<real>0.260517</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>Width</key>
+							<real>0.20000000298023224</real>
+						</dict>
+					</dict>
+					<key>Text</key>
+					<dict>
+						<key>Text</key>
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf820
+{\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
+
+\f0\fs20 \cf1 Style\
+Scope}</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Bounds</key>
+					<string>{{373.74803080421725, 449.57480396233206}, {63, 36}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>FontInfo</key>
+					<dict>
+						<key>Color</key>
+						<dict>
+							<key>b</key>
+							<string>1</string>
+							<key>g</key>
+							<string>1</string>
+							<key>r</key>
+							<string>1</string>
+						</dict>
+						<key>Size</key>
+						<real>10</real>
+					</dict>
+					<key>ID</key>
+					<integer>19</integer>
+					<key>Style</key>
+					<dict>
+						<key>fill</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.87376399999999999</real>
+								<key>g</key>
+								<real>0.55244800000000005</real>
+								<key>r</key>
+								<real>0.21176300000000001</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>FillType</key>
+							<integer>2</integer>
+							<key>GradientAngle</key>
+							<real>90</real>
+							<key>GradientColor</key>
+							<dict>
+								<key>b</key>
+								<string>0.698759</string>
+								<key>g</key>
+								<string>0.402515</string>
+								<key>r</key>
+								<string>0.0659166</string>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+						</dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>stroke</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.260521</real>
+								<key>g</key>
+								<real>0.26052399999999998</real>
+								<key>r</key>
+								<real>0.260517</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>Width</key>
+							<real>0.20000000298023224</real>
+						</dict>
+					</dict>
+					<key>Text</key>
+					<dict>
+						<key>Text</key>
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf820
+{\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
+
+\f0\fs20 \cf1 Style\
+Scope}</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Bounds</key>
+					<string>{{373.74803080421725, 539.57480396233211}, {63, 36}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FontInfo</key>
@@ -2233,7 +1454,810 @@ PostCSS}</string>
 						<real>10</real>
 					</dict>
 					<key>ID</key>
-					<integer>18</integer>
+					<integer>20</integer>
+					<key>Style</key>
+					<dict>
+						<key>fill</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.571353</real>
+								<key>g</key>
+								<real>0.57146200000000003</real>
+								<key>r</key>
+								<real>0.57137899999999997</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>FillType</key>
+							<integer>2</integer>
+							<key>GradientAngle</key>
+							<real>90</real>
+							<key>GradientColor</key>
+							<dict>
+								<key>b</key>
+								<string>0.285673</string>
+								<key>g</key>
+								<string>0.285732</string>
+								<key>r</key>
+								<string>0.285687</string>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+						</dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>stroke</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.260521</real>
+								<key>g</key>
+								<real>0.26052399999999998</real>
+								<key>r</key>
+								<real>0.260517</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>Width</key>
+							<real>0.20000000298023221</real>
+						</dict>
+					</dict>
+					<key>Text</key>
+					<dict>
+						<key>Pad</key>
+						<real>0.0</real>
+						<key>Text</key>
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf820
+{\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
+
+\f0\fs20 \cf1 \expnd0\expndtw0\kerning0
+Autoprefixer}</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Bounds</key>
+					<string>{{373.74803080421725, 494.57480396233206}, {63, 36}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>FontInfo</key>
+					<dict>
+						<key>Color</key>
+						<dict>
+							<key>w</key>
+							<string>1</string>
+						</dict>
+						<key>Font</key>
+						<string>MyriadPro-Regular</string>
+						<key>NSKern</key>
+						<real>0.0</real>
+						<key>Size</key>
+						<real>10</real>
+					</dict>
+					<key>ID</key>
+					<integer>21</integer>
+					<key>Style</key>
+					<dict>
+						<key>fill</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.571353</real>
+								<key>g</key>
+								<real>0.57146200000000003</real>
+								<key>r</key>
+								<real>0.57137899999999997</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>FillType</key>
+							<integer>2</integer>
+							<key>GradientAngle</key>
+							<real>90</real>
+							<key>GradientColor</key>
+							<dict>
+								<key>b</key>
+								<string>0.285673</string>
+								<key>g</key>
+								<string>0.285732</string>
+								<key>r</key>
+								<string>0.285687</string>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+						</dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>stroke</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.260521</real>
+								<key>g</key>
+								<real>0.26052399999999998</real>
+								<key>r</key>
+								<real>0.260517</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>Width</key>
+							<real>0.20000000298023221</real>
+						</dict>
+					</dict>
+					<key>Text</key>
+					<dict>
+						<key>Pad</key>
+						<real>0.0</real>
+						<key>Text</key>
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf820
+{\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
+
+\f0\fs20 \cf1 \expnd0\expndtw0\kerning0
+PreCSS}</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Bounds</key>
+					<string>{{373.74803080421725, 404.57480396233206}, {63, 36}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>FontInfo</key>
+					<dict>
+						<key>Color</key>
+						<dict>
+							<key>w</key>
+							<string>1</string>
+						</dict>
+						<key>Font</key>
+						<string>MyriadPro-Regular</string>
+						<key>NSKern</key>
+						<real>0.0</real>
+						<key>Size</key>
+						<real>10</real>
+					</dict>
+					<key>ID</key>
+					<integer>22</integer>
+					<key>Style</key>
+					<dict>
+						<key>fill</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.571353</real>
+								<key>g</key>
+								<real>0.57146200000000003</real>
+								<key>r</key>
+								<real>0.57137899999999997</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>FillType</key>
+							<integer>2</integer>
+							<key>GradientAngle</key>
+							<real>90</real>
+							<key>GradientColor</key>
+							<dict>
+								<key>b</key>
+								<string>0.285673</string>
+								<key>g</key>
+								<string>0.285732</string>
+								<key>r</key>
+								<string>0.285687</string>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+						</dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>stroke</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.260521</real>
+								<key>g</key>
+								<real>0.26052399999999998</real>
+								<key>r</key>
+								<real>0.260517</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>Width</key>
+							<real>0.20000000298023221</real>
+						</dict>
+					</dict>
+					<key>Text</key>
+					<dict>
+						<key>Pad</key>
+						<real>0.0</real>
+						<key>Text</key>
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf820
+{\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
+
+\f0\fs20 \cf1 \expnd0\expndtw0\kerning0
+CSSNext}</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Bounds</key>
+					<string>{{517.74803080421714, 359.57480396233206}, {63, 36}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>FontInfo</key>
+					<dict>
+						<key>Color</key>
+						<dict>
+							<key>w</key>
+							<string>1</string>
+						</dict>
+						<key>Font</key>
+						<string>MyriadPro-Regular</string>
+						<key>NSKern</key>
+						<real>0.0</real>
+						<key>Size</key>
+						<real>10</real>
+					</dict>
+					<key>ID</key>
+					<integer>23</integer>
+					<key>Style</key>
+					<dict>
+						<key>fill</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.571353</real>
+								<key>g</key>
+								<real>0.57146200000000003</real>
+								<key>r</key>
+								<real>0.57137899999999997</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>FillType</key>
+							<integer>2</integer>
+							<key>GradientAngle</key>
+							<real>90</real>
+							<key>GradientColor</key>
+							<dict>
+								<key>b</key>
+								<string>0.285673</string>
+								<key>g</key>
+								<string>0.285732</string>
+								<key>r</key>
+								<string>0.285687</string>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+						</dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>stroke</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.260521</real>
+								<key>g</key>
+								<real>0.26052399999999998</real>
+								<key>r</key>
+								<real>0.260517</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>Width</key>
+							<real>0.20000000298023221</real>
+						</dict>
+					</dict>
+					<key>Text</key>
+					<dict>
+						<key>Pad</key>
+						<real>0.0</real>
+						<key>Text</key>
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf820
+{\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
+
+\f0\fs20 \cf1 \expnd0\expndtw0\kerning0
+js-YAML}</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Bounds</key>
+					<string>{{445.74803080421725, 359.57480396233206}, {63, 36}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>FontInfo</key>
+					<dict>
+						<key>Color</key>
+						<dict>
+							<key>w</key>
+							<string>1</string>
+						</dict>
+						<key>Font</key>
+						<string>MyriadPro-Regular</string>
+						<key>NSKern</key>
+						<real>0.0</real>
+						<key>Size</key>
+						<real>10</real>
+					</dict>
+					<key>ID</key>
+					<integer>24</integer>
+					<key>Style</key>
+					<dict>
+						<key>fill</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.571353</real>
+								<key>g</key>
+								<real>0.57146200000000003</real>
+								<key>r</key>
+								<real>0.57137899999999997</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>FillType</key>
+							<integer>2</integer>
+							<key>GradientAngle</key>
+							<real>90</real>
+							<key>GradientColor</key>
+							<dict>
+								<key>b</key>
+								<string>0.285673</string>
+								<key>g</key>
+								<string>0.285732</string>
+								<key>r</key>
+								<string>0.285687</string>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+						</dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>stroke</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.260521</real>
+								<key>g</key>
+								<real>0.26052399999999998</real>
+								<key>r</key>
+								<real>0.260517</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>Width</key>
+							<real>0.20000000298023221</real>
+						</dict>
+					</dict>
+					<key>Text</key>
+					<dict>
+						<key>Pad</key>
+						<real>0.0</real>
+						<key>Text</key>
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf820
+{\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
+
+\f0\fs20 \cf1 \expnd0\expndtw0\kerning0
+Babel}</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Bounds</key>
+					<string>{{373.74803080421725, 359.57480396233206}, {63, 36}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>FontInfo</key>
+					<dict>
+						<key>Color</key>
+						<dict>
+							<key>w</key>
+							<string>1</string>
+						</dict>
+						<key>Font</key>
+						<string>MyriadPro-Regular</string>
+						<key>NSKern</key>
+						<real>0.0</real>
+						<key>Size</key>
+						<real>10</real>
+					</dict>
+					<key>ID</key>
+					<integer>25</integer>
+					<key>Style</key>
+					<dict>
+						<key>fill</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.571353</real>
+								<key>g</key>
+								<real>0.57146200000000003</real>
+								<key>r</key>
+								<real>0.57137899999999997</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>FillType</key>
+							<integer>2</integer>
+							<key>GradientAngle</key>
+							<real>90</real>
+							<key>GradientColor</key>
+							<dict>
+								<key>b</key>
+								<string>0.285673</string>
+								<key>g</key>
+								<string>0.285732</string>
+								<key>r</key>
+								<string>0.285687</string>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+						</dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>stroke</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.260521</real>
+								<key>g</key>
+								<real>0.26052399999999998</real>
+								<key>r</key>
+								<real>0.260517</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>Width</key>
+							<real>0.20000000298023221</real>
+						</dict>
+					</dict>
+					<key>Text</key>
+					<dict>
+						<key>Pad</key>
+						<real>0.0</real>
+						<key>Text</key>
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf820
+{\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
+
+\f0\fs20 \cf1 \expnd0\expndtw0\kerning0
+PostCSS}</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Bounds</key>
+					<string>{{301.74803080421725, 404.57480396233206}, {63, 36}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>FontInfo</key>
+					<dict>
+						<key>Color</key>
+						<dict>
+							<key>w</key>
+							<string>1</string>
+						</dict>
+						<key>Font</key>
+						<string>MyriadPro-Regular</string>
+						<key>NSKern</key>
+						<real>0.0</real>
+						<key>Size</key>
+						<real>10</real>
+					</dict>
+					<key>ID</key>
+					<integer>26</integer>
+					<key>Style</key>
+					<dict>
+						<key>fill</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.571353</real>
+								<key>g</key>
+								<real>0.57146200000000003</real>
+								<key>r</key>
+								<real>0.57137899999999997</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>FillType</key>
+							<integer>2</integer>
+							<key>GradientAngle</key>
+							<real>90</real>
+							<key>GradientColor</key>
+							<dict>
+								<key>b</key>
+								<string>0.285673</string>
+								<key>g</key>
+								<string>0.285732</string>
+								<key>r</key>
+								<string>0.285687</string>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+						</dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>stroke</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.260521</real>
+								<key>g</key>
+								<real>0.26052399999999998</real>
+								<key>r</key>
+								<real>0.260517</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>Width</key>
+							<real>0.20000000298023221</real>
+						</dict>
+					</dict>
+					<key>Text</key>
+					<dict>
+						<key>Pad</key>
+						<real>0.0</real>
+						<key>Text</key>
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf820
+{\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
+
+\f0\fs20 \cf1 \expnd0\expndtw0\kerning0
+Vue\
+Template\
+Compiler}</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Bounds</key>
+					<string>{{229.74803080421731, 359.57480396233206}, {63, 36}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>FontInfo</key>
+					<dict>
+						<key>Color</key>
+						<dict>
+							<key>w</key>
+							<string>1</string>
+						</dict>
+						<key>Font</key>
+						<string>MyriadPro-Regular</string>
+						<key>NSKern</key>
+						<real>0.0</real>
+						<key>Size</key>
+						<real>10</real>
+					</dict>
+					<key>ID</key>
+					<integer>27</integer>
+					<key>Style</key>
+					<dict>
+						<key>fill</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.571353</real>
+								<key>g</key>
+								<real>0.57146200000000003</real>
+								<key>r</key>
+								<real>0.57137899999999997</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>FillType</key>
+							<integer>2</integer>
+							<key>GradientAngle</key>
+							<real>90</real>
+							<key>GradientColor</key>
+							<dict>
+								<key>b</key>
+								<string>0.285673</string>
+								<key>g</key>
+								<string>0.285732</string>
+								<key>r</key>
+								<string>0.285687</string>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+						</dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>stroke</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.260521</real>
+								<key>g</key>
+								<real>0.26052399999999998</real>
+								<key>r</key>
+								<real>0.260517</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>Width</key>
+							<real>0.20000000298023221</real>
+						</dict>
+					</dict>
+					<key>Text</key>
+					<dict>
+						<key>Pad</key>
+						<real>0.0</real>
+						<key>Text</key>
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf820
+{\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
+
+\f0\fs20 \cf1 \expnd0\expndtw0\kerning0
+ESLint}</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Bounds</key>
+					<string>{{157.74803080421731, 359.57480396233206}, {63, 36}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>FontInfo</key>
+					<dict>
+						<key>Color</key>
+						<dict>
+							<key>w</key>
+							<string>1</string>
+						</dict>
+						<key>Font</key>
+						<string>MyriadPro-Regular</string>
+						<key>NSKern</key>
+						<real>0.0</real>
+						<key>Size</key>
+						<real>10</real>
+					</dict>
+					<key>ID</key>
+					<integer>28</integer>
+					<key>Style</key>
+					<dict>
+						<key>fill</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.571353</real>
+								<key>g</key>
+								<real>0.57146200000000003</real>
+								<key>r</key>
+								<real>0.57137899999999997</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>FillType</key>
+							<integer>2</integer>
+							<key>GradientAngle</key>
+							<real>90</real>
+							<key>GradientColor</key>
+							<dict>
+								<key>b</key>
+								<string>0.285673</string>
+								<key>g</key>
+								<string>0.285732</string>
+								<key>r</key>
+								<string>0.285687</string>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+						</dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>stroke</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.260521</real>
+								<key>g</key>
+								<real>0.26052399999999998</real>
+								<key>r</key>
+								<real>0.260517</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>Width</key>
+							<real>0.20000000298023221</real>
+						</dict>
+					</dict>
+					<key>Text</key>
+					<dict>
+						<key>Pad</key>
+						<real>0.0</real>
+						<key>Text</key>
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf820
+{\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
+
+\f0\fs20 \cf1 \expnd0\expndtw0\kerning0
+PostCSS}</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Bounds</key>
+					<string>{{157.74803080421731, 404.57480396233206}, {63, 36}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>FontInfo</key>
+					<dict>
+						<key>Color</key>
+						<dict>
+							<key>w</key>
+							<string>1</string>
+						</dict>
+						<key>Font</key>
+						<string>MyriadPro-Regular</string>
+						<key>NSKern</key>
+						<real>0.0</real>
+						<key>Size</key>
+						<real>10</real>
+					</dict>
+					<key>ID</key>
+					<integer>29</integer>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -2304,7 +2328,7 @@ StyleLint}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{99, 360}, {63, 36}}</string>
+					<string>{{85.748030804217279, 359.57480396233206}, {63, 36}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FontInfo</key>
@@ -2322,7 +2346,7 @@ StyleLint}</string>
 						<real>10</real>
 					</dict>
 					<key>ID</key>
-					<integer>19</integer>
+					<integer>30</integer>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -2393,975 +2417,7 @@ HTMLHint}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{99, 450}, {63, 36}}</string>
-					<key>Class</key>
-					<string>ShapedGraphic</string>
-					<key>FontInfo</key>
-					<dict>
-						<key>Color</key>
-						<dict>
-							<key>b</key>
-							<string>1</string>
-							<key>g</key>
-							<string>1</string>
-							<key>r</key>
-							<string>1</string>
-						</dict>
-						<key>Size</key>
-						<real>10</real>
-					</dict>
-					<key>ID</key>
-					<integer>20</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Color</key>
-							<dict>
-								<key>b</key>
-								<real>0.87376399999999999</real>
-								<key>g</key>
-								<real>0.55244800000000005</real>
-								<key>r</key>
-								<real>0.21176300000000001</real>
-								<key>space</key>
-								<string>srgb</string>
-							</dict>
-							<key>FillType</key>
-							<integer>2</integer>
-							<key>GradientAngle</key>
-							<real>90</real>
-							<key>GradientColor</key>
-							<dict>
-								<key>b</key>
-								<string>0.698759</string>
-								<key>g</key>
-								<string>0.402515</string>
-								<key>r</key>
-								<string>0.0659166</string>
-								<key>space</key>
-								<string>srgb</string>
-							</dict>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Color</key>
-							<dict>
-								<key>b</key>
-								<real>0.260521</real>
-								<key>g</key>
-								<real>0.26052399999999998</real>
-								<key>r</key>
-								<real>0.260517</real>
-								<key>space</key>
-								<string>srgb</string>
-							</dict>
-							<key>Width</key>
-							<real>0.20000000298023224</real>
-						</dict>
-					</dict>
-					<key>Text</key>
-					<dict>
-						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf820
-{\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
-
-\f0\fs20 \cf1 gemstone\
-config\
-htmlhint}</string>
-					</dict>
-				</dict>
-				<dict>
-					<key>Bounds</key>
-					<string>{{171, 450}, {63, 36}}</string>
-					<key>Class</key>
-					<string>ShapedGraphic</string>
-					<key>FontInfo</key>
-					<dict>
-						<key>Color</key>
-						<dict>
-							<key>b</key>
-							<string>1</string>
-							<key>g</key>
-							<string>1</string>
-							<key>r</key>
-							<string>1</string>
-						</dict>
-						<key>Size</key>
-						<real>10</real>
-					</dict>
-					<key>ID</key>
-					<integer>21</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Color</key>
-							<dict>
-								<key>b</key>
-								<real>0.87376399999999999</real>
-								<key>g</key>
-								<real>0.55244800000000005</real>
-								<key>r</key>
-								<real>0.21176300000000001</real>
-								<key>space</key>
-								<string>srgb</string>
-							</dict>
-							<key>FillType</key>
-							<integer>2</integer>
-							<key>GradientAngle</key>
-							<real>90</real>
-							<key>GradientColor</key>
-							<dict>
-								<key>b</key>
-								<string>0.698759</string>
-								<key>g</key>
-								<string>0.402515</string>
-								<key>r</key>
-								<string>0.0659166</string>
-								<key>space</key>
-								<string>srgb</string>
-							</dict>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Color</key>
-							<dict>
-								<key>b</key>
-								<real>0.260521</real>
-								<key>g</key>
-								<real>0.26052399999999998</real>
-								<key>r</key>
-								<real>0.260517</real>
-								<key>space</key>
-								<string>srgb</string>
-							</dict>
-							<key>Width</key>
-							<real>0.20000000298023224</real>
-						</dict>
-					</dict>
-					<key>Text</key>
-					<dict>
-						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf820
-{\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
-
-\f0\fs20 \cf1 gemstone\
-config\
-stylelint}</string>
-					</dict>
-				</dict>
-				<dict>
-					<key>Bounds</key>
-					<string>{{243, 450}, {63, 36}}</string>
-					<key>Class</key>
-					<string>ShapedGraphic</string>
-					<key>FontInfo</key>
-					<dict>
-						<key>Color</key>
-						<dict>
-							<key>b</key>
-							<string>1</string>
-							<key>g</key>
-							<string>1</string>
-							<key>r</key>
-							<string>1</string>
-						</dict>
-						<key>Size</key>
-						<real>10</real>
-					</dict>
-					<key>ID</key>
-					<integer>22</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Color</key>
-							<dict>
-								<key>b</key>
-								<real>0.87376399999999999</real>
-								<key>g</key>
-								<real>0.55244800000000005</real>
-								<key>r</key>
-								<real>0.21176300000000001</real>
-								<key>space</key>
-								<string>srgb</string>
-							</dict>
-							<key>FillType</key>
-							<integer>2</integer>
-							<key>GradientAngle</key>
-							<real>90</real>
-							<key>GradientColor</key>
-							<dict>
-								<key>b</key>
-								<string>0.698759</string>
-								<key>g</key>
-								<string>0.402515</string>
-								<key>r</key>
-								<string>0.0659166</string>
-								<key>space</key>
-								<string>srgb</string>
-							</dict>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Color</key>
-							<dict>
-								<key>b</key>
-								<real>0.260521</real>
-								<key>g</key>
-								<real>0.26052399999999998</real>
-								<key>r</key>
-								<real>0.260517</real>
-								<key>space</key>
-								<string>srgb</string>
-							</dict>
-							<key>Width</key>
-							<real>0.20000000298023224</real>
-						</dict>
-					</dict>
-					<key>Text</key>
-					<dict>
-						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf820
-{\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
-
-\f0\fs20 \cf1 gemstone\
-config\
-eslint}</string>
-					</dict>
-				</dict>
-				<dict>
-					<key>Bounds</key>
-					<string>{{387, 315}, {63, 36}}</string>
-					<key>Class</key>
-					<string>ShapedGraphic</string>
-					<key>FontInfo</key>
-					<dict>
-						<key>Color</key>
-						<dict>
-							<key>b</key>
-							<string>1</string>
-							<key>g</key>
-							<string>1</string>
-							<key>r</key>
-							<string>1</string>
-						</dict>
-						<key>Size</key>
-						<real>10</real>
-					</dict>
-					<key>ID</key>
-					<integer>23</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Color</key>
-							<dict>
-								<key>b</key>
-								<real>0.87376399999999999</real>
-								<key>g</key>
-								<real>0.55244800000000005</real>
-								<key>r</key>
-								<real>0.21176300000000001</real>
-								<key>space</key>
-								<string>srgb</string>
-							</dict>
-							<key>FillType</key>
-							<integer>2</integer>
-							<key>GradientAngle</key>
-							<real>90</real>
-							<key>GradientColor</key>
-							<dict>
-								<key>b</key>
-								<string>0.698759</string>
-								<key>g</key>
-								<string>0.402515</string>
-								<key>r</key>
-								<string>0.0659166</string>
-								<key>space</key>
-								<string>srgb</string>
-							</dict>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Color</key>
-							<dict>
-								<key>b</key>
-								<real>0.260521</real>
-								<key>g</key>
-								<real>0.26052399999999998</real>
-								<key>r</key>
-								<real>0.260517</real>
-								<key>space</key>
-								<string>srgb</string>
-							</dict>
-							<key>Width</key>
-							<real>0.20000000298023224</real>
-						</dict>
-					</dict>
-					<key>Text</key>
-					<dict>
-						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf820
-{\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
-
-\f0\fs20 \cf1 gemstone\
-loader\
-yaml}</string>
-					</dict>
-				</dict>
-				<dict>
-					<key>Bounds</key>
-					<string>{{315, 315}, {63, 36}}</string>
-					<key>Class</key>
-					<string>ShapedGraphic</string>
-					<key>FontInfo</key>
-					<dict>
-						<key>Color</key>
-						<dict>
-							<key>b</key>
-							<string>1</string>
-							<key>g</key>
-							<string>1</string>
-							<key>r</key>
-							<string>1</string>
-						</dict>
-						<key>Size</key>
-						<real>10</real>
-					</dict>
-					<key>ID</key>
-					<integer>24</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Color</key>
-							<dict>
-								<key>b</key>
-								<real>0.87376399999999999</real>
-								<key>g</key>
-								<real>0.55244800000000005</real>
-								<key>r</key>
-								<real>0.21176300000000001</real>
-								<key>space</key>
-								<string>srgb</string>
-							</dict>
-							<key>FillType</key>
-							<integer>2</integer>
-							<key>GradientAngle</key>
-							<real>90</real>
-							<key>GradientColor</key>
-							<dict>
-								<key>b</key>
-								<string>0.698759</string>
-								<key>g</key>
-								<string>0.402515</string>
-								<key>r</key>
-								<string>0.0659166</string>
-								<key>space</key>
-								<string>srgb</string>
-							</dict>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Color</key>
-							<dict>
-								<key>b</key>
-								<real>0.260521</real>
-								<key>g</key>
-								<real>0.26052399999999998</real>
-								<key>r</key>
-								<real>0.260517</real>
-								<key>space</key>
-								<string>srgb</string>
-							</dict>
-							<key>Width</key>
-							<real>0.20000000298023224</real>
-						</dict>
-					</dict>
-					<key>Text</key>
-					<dict>
-						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf820
-{\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
-
-\f0\fs20 \cf1 gemstone\
-loader\
-json}</string>
-					</dict>
-				</dict>
-				<dict>
-					<key>Bounds</key>
-					<string>{{459, 270}, {63, 36}}</string>
-					<key>Class</key>
-					<string>ShapedGraphic</string>
-					<key>FontInfo</key>
-					<dict>
-						<key>Color</key>
-						<dict>
-							<key>b</key>
-							<string>1</string>
-							<key>g</key>
-							<string>1</string>
-							<key>r</key>
-							<string>1</string>
-						</dict>
-						<key>Size</key>
-						<real>10</real>
-					</dict>
-					<key>ID</key>
-					<integer>25</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Color</key>
-							<dict>
-								<key>b</key>
-								<real>0.87376399999999999</real>
-								<key>g</key>
-								<real>0.55244800000000005</real>
-								<key>r</key>
-								<real>0.21176300000000001</real>
-								<key>space</key>
-								<string>srgb</string>
-							</dict>
-							<key>FillType</key>
-							<integer>2</integer>
-							<key>GradientAngle</key>
-							<real>90</real>
-							<key>GradientColor</key>
-							<dict>
-								<key>b</key>
-								<string>0.698759</string>
-								<key>g</key>
-								<string>0.402515</string>
-								<key>r</key>
-								<string>0.0659166</string>
-								<key>space</key>
-								<string>srgb</string>
-							</dict>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Color</key>
-							<dict>
-								<key>b</key>
-								<real>0.260521</real>
-								<key>g</key>
-								<real>0.26052399999999998</real>
-								<key>r</key>
-								<real>0.260517</real>
-								<key>space</key>
-								<string>srgb</string>
-							</dict>
-							<key>Width</key>
-							<real>0.20000000298023224</real>
-						</dict>
-					</dict>
-					<key>Text</key>
-					<dict>
-						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf820
-{\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
-
-\f0\fs20 \cf1 gemstone\
-loader\
-js}</string>
-					</dict>
-				</dict>
-				<dict>
-					<key>Bounds</key>
-					<string>{{315, 270}, {63, 36}}</string>
-					<key>Class</key>
-					<string>ShapedGraphic</string>
-					<key>FontInfo</key>
-					<dict>
-						<key>Color</key>
-						<dict>
-							<key>b</key>
-							<string>1</string>
-							<key>g</key>
-							<string>1</string>
-							<key>r</key>
-							<string>1</string>
-						</dict>
-						<key>Size</key>
-						<real>10</real>
-					</dict>
-					<key>ID</key>
-					<integer>26</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Color</key>
-							<dict>
-								<key>b</key>
-								<real>0.87376399999999999</real>
-								<key>g</key>
-								<real>0.55244800000000005</real>
-								<key>r</key>
-								<real>0.21176300000000001</real>
-								<key>space</key>
-								<string>srgb</string>
-							</dict>
-							<key>FillType</key>
-							<integer>2</integer>
-							<key>GradientAngle</key>
-							<real>90</real>
-							<key>GradientColor</key>
-							<dict>
-								<key>b</key>
-								<string>0.698759</string>
-								<key>g</key>
-								<string>0.402515</string>
-								<key>r</key>
-								<string>0.0659166</string>
-								<key>space</key>
-								<string>srgb</string>
-							</dict>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Color</key>
-							<dict>
-								<key>b</key>
-								<real>0.260521</real>
-								<key>g</key>
-								<real>0.26052399999999998</real>
-								<key>r</key>
-								<real>0.260517</real>
-								<key>space</key>
-								<string>srgb</string>
-							</dict>
-							<key>Width</key>
-							<real>0.20000000298023224</real>
-						</dict>
-					</dict>
-					<key>Text</key>
-					<dict>
-						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf820
-{\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
-
-\f0\fs20 \cf1 gemstone\
-loader\
-html}</string>
-					</dict>
-				</dict>
-				<dict>
-					<key>Bounds</key>
-					<string>{{387, 270}, {63, 36}}</string>
-					<key>Class</key>
-					<string>ShapedGraphic</string>
-					<key>FontInfo</key>
-					<dict>
-						<key>Color</key>
-						<dict>
-							<key>b</key>
-							<string>1</string>
-							<key>g</key>
-							<string>1</string>
-							<key>r</key>
-							<string>1</string>
-						</dict>
-						<key>Size</key>
-						<real>10</real>
-					</dict>
-					<key>ID</key>
-					<integer>27</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Color</key>
-							<dict>
-								<key>b</key>
-								<real>0.87376399999999999</real>
-								<key>g</key>
-								<real>0.55244800000000005</real>
-								<key>r</key>
-								<real>0.21176300000000001</real>
-								<key>space</key>
-								<string>srgb</string>
-							</dict>
-							<key>FillType</key>
-							<integer>2</integer>
-							<key>GradientAngle</key>
-							<real>90</real>
-							<key>GradientColor</key>
-							<dict>
-								<key>b</key>
-								<string>0.698759</string>
-								<key>g</key>
-								<string>0.402515</string>
-								<key>r</key>
-								<string>0.0659166</string>
-								<key>space</key>
-								<string>srgb</string>
-							</dict>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Color</key>
-							<dict>
-								<key>b</key>
-								<real>0.260521</real>
-								<key>g</key>
-								<real>0.26052399999999998</real>
-								<key>r</key>
-								<real>0.260517</real>
-								<key>space</key>
-								<string>srgb</string>
-							</dict>
-							<key>Width</key>
-							<real>0.20000000298023224</real>
-						</dict>
-					</dict>
-					<key>Text</key>
-					<dict>
-						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf820
-{\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
-
-\f0\fs20 \cf1 gemstone\
-loader\
-css}</string>
-					</dict>
-				</dict>
-				<dict>
-					<key>Bounds</key>
-					<string>{{171, 315}, {63, 36}}</string>
-					<key>Class</key>
-					<string>ShapedGraphic</string>
-					<key>FontInfo</key>
-					<dict>
-						<key>Color</key>
-						<dict>
-							<key>b</key>
-							<string>1</string>
-							<key>g</key>
-							<string>1</string>
-							<key>r</key>
-							<string>1</string>
-						</dict>
-						<key>Size</key>
-						<real>10</real>
-					</dict>
-					<key>ID</key>
-					<integer>28</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Color</key>
-							<dict>
-								<key>b</key>
-								<real>0.87376399999999999</real>
-								<key>g</key>
-								<real>0.55244800000000005</real>
-								<key>r</key>
-								<real>0.21176300000000001</real>
-								<key>space</key>
-								<string>srgb</string>
-							</dict>
-							<key>FillType</key>
-							<integer>2</integer>
-							<key>GradientAngle</key>
-							<real>90</real>
-							<key>GradientColor</key>
-							<dict>
-								<key>b</key>
-								<string>0.698759</string>
-								<key>g</key>
-								<string>0.402515</string>
-								<key>r</key>
-								<string>0.0659166</string>
-								<key>space</key>
-								<string>srgb</string>
-							</dict>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Color</key>
-							<dict>
-								<key>b</key>
-								<real>0.260521</real>
-								<key>g</key>
-								<real>0.26052399999999998</real>
-								<key>r</key>
-								<real>0.260517</real>
-								<key>space</key>
-								<string>srgb</string>
-							</dict>
-							<key>Width</key>
-							<real>0.20000000298023224</real>
-						</dict>
-					</dict>
-					<key>Text</key>
-					<dict>
-						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf820
-{\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
-
-\f0\fs20 \cf1 gemstone\
-linter\
-yaml}</string>
-					</dict>
-				</dict>
-				<dict>
-					<key>Bounds</key>
-					<string>{{99, 315}, {63, 36}}</string>
-					<key>Class</key>
-					<string>ShapedGraphic</string>
-					<key>FontInfo</key>
-					<dict>
-						<key>Color</key>
-						<dict>
-							<key>b</key>
-							<string>1</string>
-							<key>g</key>
-							<string>1</string>
-							<key>r</key>
-							<string>1</string>
-						</dict>
-						<key>Size</key>
-						<real>10</real>
-					</dict>
-					<key>ID</key>
-					<integer>29</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Color</key>
-							<dict>
-								<key>b</key>
-								<real>0.87376399999999999</real>
-								<key>g</key>
-								<real>0.55244800000000005</real>
-								<key>r</key>
-								<real>0.21176300000000001</real>
-								<key>space</key>
-								<string>srgb</string>
-							</dict>
-							<key>FillType</key>
-							<integer>2</integer>
-							<key>GradientAngle</key>
-							<real>90</real>
-							<key>GradientColor</key>
-							<dict>
-								<key>b</key>
-								<string>0.698759</string>
-								<key>g</key>
-								<string>0.402515</string>
-								<key>r</key>
-								<string>0.0659166</string>
-								<key>space</key>
-								<string>srgb</string>
-							</dict>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Color</key>
-							<dict>
-								<key>b</key>
-								<real>0.260521</real>
-								<key>g</key>
-								<real>0.26052399999999998</real>
-								<key>r</key>
-								<real>0.260517</real>
-								<key>space</key>
-								<string>srgb</string>
-							</dict>
-							<key>Width</key>
-							<real>0.20000000298023224</real>
-						</dict>
-					</dict>
-					<key>Text</key>
-					<dict>
-						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf820
-{\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
-
-\f0\fs20 \cf1 gemstone\
-linter\
-json}</string>
-					</dict>
-				</dict>
-				<dict>
-					<key>Bounds</key>
-					<string>{{243, 270}, {63, 36}}</string>
-					<key>Class</key>
-					<string>ShapedGraphic</string>
-					<key>FontInfo</key>
-					<dict>
-						<key>Color</key>
-						<dict>
-							<key>b</key>
-							<string>1</string>
-							<key>g</key>
-							<string>1</string>
-							<key>r</key>
-							<string>1</string>
-						</dict>
-						<key>Size</key>
-						<real>10</real>
-					</dict>
-					<key>ID</key>
-					<integer>30</integer>
-					<key>Style</key>
-					<dict>
-						<key>fill</key>
-						<dict>
-							<key>Color</key>
-							<dict>
-								<key>b</key>
-								<real>0.87376399999999999</real>
-								<key>g</key>
-								<real>0.55244800000000005</real>
-								<key>r</key>
-								<real>0.21176300000000001</real>
-								<key>space</key>
-								<string>srgb</string>
-							</dict>
-							<key>FillType</key>
-							<integer>2</integer>
-							<key>GradientAngle</key>
-							<real>90</real>
-							<key>GradientColor</key>
-							<dict>
-								<key>b</key>
-								<string>0.698759</string>
-								<key>g</key>
-								<string>0.402515</string>
-								<key>r</key>
-								<string>0.0659166</string>
-								<key>space</key>
-								<string>srgb</string>
-							</dict>
-						</dict>
-						<key>shadow</key>
-						<dict>
-							<key>Draws</key>
-							<string>NO</string>
-						</dict>
-						<key>stroke</key>
-						<dict>
-							<key>Color</key>
-							<dict>
-								<key>b</key>
-								<real>0.260521</real>
-								<key>g</key>
-								<real>0.26052399999999998</real>
-								<key>r</key>
-								<real>0.260517</real>
-								<key>space</key>
-								<string>srgb</string>
-							</dict>
-							<key>Width</key>
-							<real>0.20000000298023224</real>
-						</dict>
-					</dict>
-					<key>Text</key>
-					<dict>
-						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf820
-{\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
-
-\f0\fs20 \cf1 gemstone\
-linter\
-js}</string>
-					</dict>
-				</dict>
-				<dict>
-					<key>Bounds</key>
-					<string>{{99, 270}, {63, 36}}</string>
+					<string>{{85.748030804217279, 449.57480396233206}, {63, 36}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FontInfo</key>
@@ -3443,13 +2499,13 @@ js}</string>
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
 
 \f0\fs20 \cf1 gemstone\
-linter\
-html}</string>
+config\
+htmlhint}</string>
 					</dict>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{171, 270}, {63, 36}}</string>
+					<string>{{157.74803080421731, 449.57480396233206}, {63, 36}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FontInfo</key>
@@ -3531,13 +2587,13 @@ html}</string>
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
 
 \f0\fs20 \cf1 gemstone\
-linter\
-css}</string>
+config\
+stylelint}</string>
 					</dict>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{279, 225}, {63, 36}}</string>
+					<string>{{229.74803080421731, 449.57480396233206}, {63, 36}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FontInfo</key>
@@ -3620,12 +2676,980 @@ css}</string>
 
 \f0\fs20 \cf1 gemstone\
 config\
+eslint}</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Bounds</key>
+					<string>{{373.74803080421725, 314.57480396233206}, {63, 36}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>FontInfo</key>
+					<dict>
+						<key>Color</key>
+						<dict>
+							<key>b</key>
+							<string>1</string>
+							<key>g</key>
+							<string>1</string>
+							<key>r</key>
+							<string>1</string>
+						</dict>
+						<key>Size</key>
+						<real>10</real>
+					</dict>
+					<key>ID</key>
+					<integer>34</integer>
+					<key>Style</key>
+					<dict>
+						<key>fill</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.87376399999999999</real>
+								<key>g</key>
+								<real>0.55244800000000005</real>
+								<key>r</key>
+								<real>0.21176300000000001</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>FillType</key>
+							<integer>2</integer>
+							<key>GradientAngle</key>
+							<real>90</real>
+							<key>GradientColor</key>
+							<dict>
+								<key>b</key>
+								<string>0.698759</string>
+								<key>g</key>
+								<string>0.402515</string>
+								<key>r</key>
+								<string>0.0659166</string>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+						</dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>stroke</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.260521</real>
+								<key>g</key>
+								<real>0.26052399999999998</real>
+								<key>r</key>
+								<real>0.260517</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>Width</key>
+							<real>0.20000000298023224</real>
+						</dict>
+					</dict>
+					<key>Text</key>
+					<dict>
+						<key>Text</key>
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf820
+{\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
+
+\f0\fs20 \cf1 gemstone\
+loader\
+yaml}</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Bounds</key>
+					<string>{{301.74803080421725, 314.57480396233206}, {63, 36}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>FontInfo</key>
+					<dict>
+						<key>Color</key>
+						<dict>
+							<key>b</key>
+							<string>1</string>
+							<key>g</key>
+							<string>1</string>
+							<key>r</key>
+							<string>1</string>
+						</dict>
+						<key>Size</key>
+						<real>10</real>
+					</dict>
+					<key>ID</key>
+					<integer>35</integer>
+					<key>Style</key>
+					<dict>
+						<key>fill</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.87376399999999999</real>
+								<key>g</key>
+								<real>0.55244800000000005</real>
+								<key>r</key>
+								<real>0.21176300000000001</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>FillType</key>
+							<integer>2</integer>
+							<key>GradientAngle</key>
+							<real>90</real>
+							<key>GradientColor</key>
+							<dict>
+								<key>b</key>
+								<string>0.698759</string>
+								<key>g</key>
+								<string>0.402515</string>
+								<key>r</key>
+								<string>0.0659166</string>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+						</dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>stroke</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.260521</real>
+								<key>g</key>
+								<real>0.26052399999999998</real>
+								<key>r</key>
+								<real>0.260517</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>Width</key>
+							<real>0.20000000298023224</real>
+						</dict>
+					</dict>
+					<key>Text</key>
+					<dict>
+						<key>Text</key>
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf820
+{\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
+
+\f0\fs20 \cf1 gemstone\
+loader\
+json}</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Bounds</key>
+					<string>{{445.74803080421725, 269.57480396233206}, {63, 36}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>FontInfo</key>
+					<dict>
+						<key>Color</key>
+						<dict>
+							<key>b</key>
+							<string>1</string>
+							<key>g</key>
+							<string>1</string>
+							<key>r</key>
+							<string>1</string>
+						</dict>
+						<key>Size</key>
+						<real>10</real>
+					</dict>
+					<key>ID</key>
+					<integer>36</integer>
+					<key>Style</key>
+					<dict>
+						<key>fill</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.87376399999999999</real>
+								<key>g</key>
+								<real>0.55244800000000005</real>
+								<key>r</key>
+								<real>0.21176300000000001</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>FillType</key>
+							<integer>2</integer>
+							<key>GradientAngle</key>
+							<real>90</real>
+							<key>GradientColor</key>
+							<dict>
+								<key>b</key>
+								<string>0.698759</string>
+								<key>g</key>
+								<string>0.402515</string>
+								<key>r</key>
+								<string>0.0659166</string>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+						</dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>stroke</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.260521</real>
+								<key>g</key>
+								<real>0.26052399999999998</real>
+								<key>r</key>
+								<real>0.260517</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>Width</key>
+							<real>0.20000000298023224</real>
+						</dict>
+					</dict>
+					<key>Text</key>
+					<dict>
+						<key>Text</key>
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf820
+{\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
+
+\f0\fs20 \cf1 gemstone\
+loader\
+js}</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Bounds</key>
+					<string>{{301.74803080421725, 269.57480396233206}, {63, 36}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>FontInfo</key>
+					<dict>
+						<key>Color</key>
+						<dict>
+							<key>b</key>
+							<string>1</string>
+							<key>g</key>
+							<string>1</string>
+							<key>r</key>
+							<string>1</string>
+						</dict>
+						<key>Size</key>
+						<real>10</real>
+					</dict>
+					<key>ID</key>
+					<integer>37</integer>
+					<key>Style</key>
+					<dict>
+						<key>fill</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.87376399999999999</real>
+								<key>g</key>
+								<real>0.55244800000000005</real>
+								<key>r</key>
+								<real>0.21176300000000001</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>FillType</key>
+							<integer>2</integer>
+							<key>GradientAngle</key>
+							<real>90</real>
+							<key>GradientColor</key>
+							<dict>
+								<key>b</key>
+								<string>0.698759</string>
+								<key>g</key>
+								<string>0.402515</string>
+								<key>r</key>
+								<string>0.0659166</string>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+						</dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>stroke</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.260521</real>
+								<key>g</key>
+								<real>0.26052399999999998</real>
+								<key>r</key>
+								<real>0.260517</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>Width</key>
+							<real>0.20000000298023224</real>
+						</dict>
+					</dict>
+					<key>Text</key>
+					<dict>
+						<key>Text</key>
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf820
+{\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
+
+\f0\fs20 \cf1 gemstone\
+loader\
+html}</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Bounds</key>
+					<string>{{373.74803080421725, 269.57480396233206}, {63, 36}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>FontInfo</key>
+					<dict>
+						<key>Color</key>
+						<dict>
+							<key>b</key>
+							<string>1</string>
+							<key>g</key>
+							<string>1</string>
+							<key>r</key>
+							<string>1</string>
+						</dict>
+						<key>Size</key>
+						<real>10</real>
+					</dict>
+					<key>ID</key>
+					<integer>38</integer>
+					<key>Style</key>
+					<dict>
+						<key>fill</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.87376399999999999</real>
+								<key>g</key>
+								<real>0.55244800000000005</real>
+								<key>r</key>
+								<real>0.21176300000000001</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>FillType</key>
+							<integer>2</integer>
+							<key>GradientAngle</key>
+							<real>90</real>
+							<key>GradientColor</key>
+							<dict>
+								<key>b</key>
+								<string>0.698759</string>
+								<key>g</key>
+								<string>0.402515</string>
+								<key>r</key>
+								<string>0.0659166</string>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+						</dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>stroke</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.260521</real>
+								<key>g</key>
+								<real>0.26052399999999998</real>
+								<key>r</key>
+								<real>0.260517</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>Width</key>
+							<real>0.20000000298023224</real>
+						</dict>
+					</dict>
+					<key>Text</key>
+					<dict>
+						<key>Text</key>
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf820
+{\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
+
+\f0\fs20 \cf1 gemstone\
+loader\
+css}</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Bounds</key>
+					<string>{{157.74803080421731, 314.57480396233206}, {63, 36}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>FontInfo</key>
+					<dict>
+						<key>Color</key>
+						<dict>
+							<key>b</key>
+							<string>1</string>
+							<key>g</key>
+							<string>1</string>
+							<key>r</key>
+							<string>1</string>
+						</dict>
+						<key>Size</key>
+						<real>10</real>
+					</dict>
+					<key>ID</key>
+					<integer>39</integer>
+					<key>Style</key>
+					<dict>
+						<key>fill</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.87376399999999999</real>
+								<key>g</key>
+								<real>0.55244800000000005</real>
+								<key>r</key>
+								<real>0.21176300000000001</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>FillType</key>
+							<integer>2</integer>
+							<key>GradientAngle</key>
+							<real>90</real>
+							<key>GradientColor</key>
+							<dict>
+								<key>b</key>
+								<string>0.698759</string>
+								<key>g</key>
+								<string>0.402515</string>
+								<key>r</key>
+								<string>0.0659166</string>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+						</dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>stroke</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.260521</real>
+								<key>g</key>
+								<real>0.26052399999999998</real>
+								<key>r</key>
+								<real>0.260517</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>Width</key>
+							<real>0.20000000298023224</real>
+						</dict>
+					</dict>
+					<key>Text</key>
+					<dict>
+						<key>Text</key>
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf820
+{\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
+
+\f0\fs20 \cf1 gemstone\
+linter\
+yaml}</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Bounds</key>
+					<string>{{85.748030804217279, 314.57480396233206}, {63, 36}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>FontInfo</key>
+					<dict>
+						<key>Color</key>
+						<dict>
+							<key>b</key>
+							<string>1</string>
+							<key>g</key>
+							<string>1</string>
+							<key>r</key>
+							<string>1</string>
+						</dict>
+						<key>Size</key>
+						<real>10</real>
+					</dict>
+					<key>ID</key>
+					<integer>40</integer>
+					<key>Style</key>
+					<dict>
+						<key>fill</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.87376399999999999</real>
+								<key>g</key>
+								<real>0.55244800000000005</real>
+								<key>r</key>
+								<real>0.21176300000000001</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>FillType</key>
+							<integer>2</integer>
+							<key>GradientAngle</key>
+							<real>90</real>
+							<key>GradientColor</key>
+							<dict>
+								<key>b</key>
+								<string>0.698759</string>
+								<key>g</key>
+								<string>0.402515</string>
+								<key>r</key>
+								<string>0.0659166</string>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+						</dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>stroke</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.260521</real>
+								<key>g</key>
+								<real>0.26052399999999998</real>
+								<key>r</key>
+								<real>0.260517</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>Width</key>
+							<real>0.20000000298023224</real>
+						</dict>
+					</dict>
+					<key>Text</key>
+					<dict>
+						<key>Text</key>
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf820
+{\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
+
+\f0\fs20 \cf1 gemstone\
+linter\
+json}</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Bounds</key>
+					<string>{{229.74803080421731, 269.57480396233206}, {63, 36}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>FontInfo</key>
+					<dict>
+						<key>Color</key>
+						<dict>
+							<key>b</key>
+							<string>1</string>
+							<key>g</key>
+							<string>1</string>
+							<key>r</key>
+							<string>1</string>
+						</dict>
+						<key>Size</key>
+						<real>10</real>
+					</dict>
+					<key>ID</key>
+					<integer>41</integer>
+					<key>Style</key>
+					<dict>
+						<key>fill</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.87376399999999999</real>
+								<key>g</key>
+								<real>0.55244800000000005</real>
+								<key>r</key>
+								<real>0.21176300000000001</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>FillType</key>
+							<integer>2</integer>
+							<key>GradientAngle</key>
+							<real>90</real>
+							<key>GradientColor</key>
+							<dict>
+								<key>b</key>
+								<string>0.698759</string>
+								<key>g</key>
+								<string>0.402515</string>
+								<key>r</key>
+								<string>0.0659166</string>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+						</dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>stroke</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.260521</real>
+								<key>g</key>
+								<real>0.26052399999999998</real>
+								<key>r</key>
+								<real>0.260517</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>Width</key>
+							<real>0.20000000298023224</real>
+						</dict>
+					</dict>
+					<key>Text</key>
+					<dict>
+						<key>Text</key>
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf820
+{\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
+
+\f0\fs20 \cf1 gemstone\
+linter\
+js}</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Bounds</key>
+					<string>{{85.748030804217279, 269.57480396233206}, {63, 36}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>FontInfo</key>
+					<dict>
+						<key>Color</key>
+						<dict>
+							<key>b</key>
+							<string>1</string>
+							<key>g</key>
+							<string>1</string>
+							<key>r</key>
+							<string>1</string>
+						</dict>
+						<key>Size</key>
+						<real>10</real>
+					</dict>
+					<key>ID</key>
+					<integer>42</integer>
+					<key>Style</key>
+					<dict>
+						<key>fill</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.87376399999999999</real>
+								<key>g</key>
+								<real>0.55244800000000005</real>
+								<key>r</key>
+								<real>0.21176300000000001</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>FillType</key>
+							<integer>2</integer>
+							<key>GradientAngle</key>
+							<real>90</real>
+							<key>GradientColor</key>
+							<dict>
+								<key>b</key>
+								<string>0.698759</string>
+								<key>g</key>
+								<string>0.402515</string>
+								<key>r</key>
+								<string>0.0659166</string>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+						</dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>stroke</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.260521</real>
+								<key>g</key>
+								<real>0.26052399999999998</real>
+								<key>r</key>
+								<real>0.260517</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>Width</key>
+							<real>0.20000000298023224</real>
+						</dict>
+					</dict>
+					<key>Text</key>
+					<dict>
+						<key>Text</key>
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf820
+{\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
+
+\f0\fs20 \cf1 gemstone\
+linter\
+html}</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Bounds</key>
+					<string>{{157.74803080421731, 269.57480396233206}, {63, 36}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>FontInfo</key>
+					<dict>
+						<key>Color</key>
+						<dict>
+							<key>b</key>
+							<string>1</string>
+							<key>g</key>
+							<string>1</string>
+							<key>r</key>
+							<string>1</string>
+						</dict>
+						<key>Size</key>
+						<real>10</real>
+					</dict>
+					<key>ID</key>
+					<integer>43</integer>
+					<key>Style</key>
+					<dict>
+						<key>fill</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.87376399999999999</real>
+								<key>g</key>
+								<real>0.55244800000000005</real>
+								<key>r</key>
+								<real>0.21176300000000001</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>FillType</key>
+							<integer>2</integer>
+							<key>GradientAngle</key>
+							<real>90</real>
+							<key>GradientColor</key>
+							<dict>
+								<key>b</key>
+								<string>0.698759</string>
+								<key>g</key>
+								<string>0.402515</string>
+								<key>r</key>
+								<string>0.0659166</string>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+						</dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>stroke</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.260521</real>
+								<key>g</key>
+								<real>0.26052399999999998</real>
+								<key>r</key>
+								<real>0.260517</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>Width</key>
+							<real>0.20000000298023224</real>
+						</dict>
+					</dict>
+					<key>Text</key>
+					<dict>
+						<key>Text</key>
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf820
+{\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
+
+\f0\fs20 \cf1 gemstone\
+linter\
+css}</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>Bounds</key>
+					<string>{{265.74803080421725, 224.57480396233206}, {63, 36}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>FontInfo</key>
+					<dict>
+						<key>Color</key>
+						<dict>
+							<key>b</key>
+							<string>1</string>
+							<key>g</key>
+							<string>1</string>
+							<key>r</key>
+							<string>1</string>
+						</dict>
+						<key>Size</key>
+						<real>10</real>
+					</dict>
+					<key>ID</key>
+					<integer>44</integer>
+					<key>Style</key>
+					<dict>
+						<key>fill</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.87376399999999999</real>
+								<key>g</key>
+								<real>0.55244800000000005</real>
+								<key>r</key>
+								<real>0.21176300000000001</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>FillType</key>
+							<integer>2</integer>
+							<key>GradientAngle</key>
+							<real>90</real>
+							<key>GradientColor</key>
+							<dict>
+								<key>b</key>
+								<string>0.698759</string>
+								<key>g</key>
+								<string>0.402515</string>
+								<key>r</key>
+								<string>0.0659166</string>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+						</dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>stroke</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.260521</real>
+								<key>g</key>
+								<real>0.26052399999999998</real>
+								<key>r</key>
+								<real>0.260517</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>Width</key>
+							<real>0.20000000298023224</real>
+						</dict>
+					</dict>
+					<key>Text</key>
+					<dict>
+						<key>Text</key>
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf820
+{\fonttbl\f0\fnil\fcharset0 MyriadPro-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\slleading-60\pardirnatural\qc\partightenfactor0
+
+\f0\fs20 \cf1 gemstone\
+config\
 webpack}</string>
 					</dict>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{279, 180}, {63, 36}}</string>
+					<string>{{265.74803080421725, 179.57480396233206}, {63, 36}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FontInfo</key>
@@ -3643,7 +3667,7 @@ webpack}</string>
 						<real>10</real>
 					</dict>
 					<key>ID</key>
-					<integer>34</integer>
+					<integer>45</integer>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -3732,7 +3756,7 @@ Webpack}</string>
 						<real>10</real>
 					</dict>
 					<key>ID</key>
-					<integer>35</integer>
+					<integer>46</integer>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -3821,7 +3845,7 @@ Sequelize}</string>
 						<real>10</real>
 					</dict>
 					<key>ID</key>
-					<integer>36</integer>
+					<integer>47</integer>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -3910,7 +3934,7 @@ HAPI}</string>
 						<real>10</real>
 					</dict>
 					<key>ID</key>
-					<integer>37</integer>
+					<integer>48</integer>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -4000,7 +4024,7 @@ Sequelize}</string>
 						<real>10</real>
 					</dict>
 					<key>ID</key>
-					<integer>38</integer>
+					<integer>49</integer>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -4090,7 +4114,7 @@ Tools}</string>
 						<real>10</real>
 					</dict>
 					<key>ID</key>
-					<integer>39</integer>
+					<integer>50</integer>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -4178,7 +4202,7 @@ Tools}</string>
 						<real>10</real>
 					</dict>
 					<key>ID</key>
-					<integer>40</integer>
+					<integer>51</integer>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -4267,7 +4291,7 @@ I18Next}</string>
 						<real>10</real>
 					</dict>
 					<key>ID</key>
-					<integer>41</integer>
+					<integer>52</integer>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -4355,7 +4379,7 @@ I18Next}</string>
 						<real>10</real>
 					</dict>
 					<key>ID</key>
-					<integer>42</integer>
+					<integer>53</integer>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -4444,7 +4468,7 @@ VueJS}</string>
 						<real>10</real>
 					</dict>
 					<key>ID</key>
-					<integer>43</integer>
+					<integer>54</integer>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -4517,7 +4541,7 @@ backend}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{99, 90}, {63, 36}}</string>
+					<string>{{85.748030804217279, 89.574803962332055}, {63, 36}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FontInfo</key>
@@ -4535,7 +4559,7 @@ backend}</string>
 						<real>10</real>
 					</dict>
 					<key>ID</key>
-					<integer>44</integer>
+					<integer>55</integer>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -4603,7 +4627,7 @@ backend}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{207, 135}, {63, 36}}</string>
+					<string>{{193.74803080421731, 134.57480396233206}, {63, 36}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FontInfo</key>
@@ -4621,7 +4645,7 @@ backend}</string>
 						<real>10</real>
 					</dict>
 					<key>ID</key>
-					<integer>45</integer>
+					<integer>56</integer>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -4691,7 +4715,7 @@ generator}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{351, 135}, {63, 36}}</string>
+					<string>{{337.74803080421725, 134.57480396233206}, {63, 36}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FontInfo</key>
@@ -4709,7 +4733,7 @@ generator}</string>
 						<real>10</real>
 					</dict>
 					<key>ID</key>
-					<integer>46</integer>
+					<integer>57</integer>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -4779,7 +4803,7 @@ backend}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{279, 135}, {63, 36}}</string>
+					<string>{{265.74803080421725, 134.57480396233206}, {63, 36}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FontInfo</key>
@@ -4797,7 +4821,7 @@ backend}</string>
 						<real>10</real>
 					</dict>
 					<key>ID</key>
-					<integer>47</integer>
+					<integer>58</integer>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -4882,7 +4906,7 @@ frontend}</string>
 						<real>8</real>
 					</dict>
 					<key>ID</key>
-					<integer>48</integer>
+					<integer>59</integer>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -4922,7 +4946,7 @@ Run-Time Framework}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{286.29921519606131, 72.566929792269008}, {53, 10}}</string>
+					<string>{{271.55905758200669, 72.566929792269008}, {53, 10}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FitText</key>
@@ -4937,7 +4961,7 @@ Run-Time Framework}</string>
 						<real>8</real>
 					</dict>
 					<key>ID</key>
-					<integer>49</integer>
+					<integer>60</integer>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -4995,7 +5019,7 @@ Build-Time Tool}</string>
 						<real>10</real>
 					</dict>
 					<key>ID</key>
-					<integer>50</integer>
+					<integer>61</integer>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -5068,7 +5092,7 @@ frontend}</string>
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{279, 90}, {63, 36}}</string>
+					<string>{{265.74803080421725, 89.574803962332055}, {63, 36}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FontInfo</key>
@@ -5086,7 +5110,7 @@ frontend}</string>
 						<real>10</real>
 					</dict>
 					<key>ID</key>
-					<integer>51</integer>
+					<integer>62</integer>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -5159,7 +5183,7 @@ tool}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
-					<integer>52</integer>
+					<integer>63</integer>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -5233,7 +5257,7 @@ tool}</string>
 						<real>34</real>
 					</dict>
 					<key>ID</key>
-					<integer>53</integer>
+					<integer>64</integer>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -5276,11 +5300,75 @@ Gemstone
 				</dict>
 				<dict>
 					<key>Bounds</key>
+					<string>{{298.7716562541076, 265.74803505045219}, {286.93700990583, 88.157480788193368}}</string>
+					<key>Class</key>
+					<string>ShapedGraphic</string>
+					<key>FontInfo</key>
+					<dict>
+						<key>Color</key>
+						<dict>
+							<key>b</key>
+							<string>1</string>
+							<key>g</key>
+							<string>1</string>
+							<key>r</key>
+							<string>1</string>
+						</dict>
+						<key>Size</key>
+						<real>10</real>
+					</dict>
+					<key>ID</key>
+					<integer>10</integer>
+					<key>Style</key>
+					<dict>
+						<key>fill</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.87376399999999999</real>
+								<key>g</key>
+								<real>0.55244800000000005</real>
+								<key>r</key>
+								<real>0.21176300000000001</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>shadow</key>
+						<dict>
+							<key>Draws</key>
+							<string>NO</string>
+						</dict>
+						<key>stroke</key>
+						<dict>
+							<key>Color</key>
+							<dict>
+								<key>b</key>
+								<real>0.260521</real>
+								<key>g</key>
+								<real>0.26052399999999998</real>
+								<key>r</key>
+								<real>0.260517</real>
+								<key>space</key>
+								<string>srgb</string>
+							</dict>
+							<key>Pattern</key>
+							<integer>24</integer>
+							<key>Width</key>
+							<real>0.5</real>
+						</dict>
+					</dict>
+				</dict>
+				<dict>
+					<key>Bounds</key>
 					<string>{{36, 63}, {567, 522}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
-					<integer>54</integer>
+					<integer>65</integer>
 					<key>Style</key>
 					<dict>
 						<key>fill</key>
@@ -5428,7 +5516,7 @@ Gemstone
 		<key>Sidebar_Tab</key>
 		<integer>0</integer>
 		<key>VisibleRegion</key>
-		<string>{{-31.5, 11.25}, {926, 617}}</string>
+		<string>{{-31.3888897204105, 0}, {1028.888916145137, 685.55557371657619}}</string>
 		<key>ZoomValues</key>
 		<array>
 			<array>
