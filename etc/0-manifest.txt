@@ -33,7 +33,6 @@ gemstone-tool-generator      REPO PKG
 gemstone-framework-frontend  REPO PKG
 gemstone-framework-backend   REPO PKG
 gemstone-stub                REPO PKG
-gemstone-skeleton                 PKG
 gemstone-project             REPO
 gemstone-artwork             REPO
 gemstone-website             REPO
