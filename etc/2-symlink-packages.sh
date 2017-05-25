@@ -16,7 +16,7 @@ for pkg in `grep PKG $basedir/0-manifest.txt | sed -e 's; .*$;;'`; do
         if [ -d node_modules ]; then
             rm -rf node_modules
         fi
-        upd
+        upd '!postcss*' '!precss' '!autoprefixer'
         npm install
         (   cd node_modules || exit $?
             for mod in gemstone-*; do
