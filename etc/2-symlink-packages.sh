@@ -18,16 +18,18 @@ for pkg in `grep PKG $basedir/0-manifest.txt | sed -e 's; .*$;;'`; do
         fi
         upd '!postcss*' '!precss' '!autoprefixer'
         npm install
-        (   cd node_modules || exit $?
-            for mod in gemstone-*; do
-                if [ ".$mod" = ".gemstone-*" ]; then
-                    continue
-                fi
-                echo "-- $pkg: symlinking $mod"
-                rm -rf ./$mod
-                ln -s ../../$mod $mod
-            done
-        )
+		if [ -d node_modules ]; then
+			(   cd node_modules || exit $?
+				for mod in gemstone-*; do
+					if [ ".$mod" = ".gemstone-*" ]; then
+						continue
+					fi
+					echo "-- $pkg: symlinking $mod"
+					rm -rf ./$mod
+					ln -s ../../$mod $mod
+				done
+			)
+		fi
     )
 done
 
