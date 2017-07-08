@@ -16,7 +16,7 @@ for pkg in `grep PKG $basedir/0-manifest.txt | sed -e 's; .*$;;'`; do
         if [ -d node_modules ]; then
             rm -rf node_modules
         fi
-        upd '!postcss*' '!precss' '!autoprefixer' '!webpack'
+        upd
         npm install
 		if [ -d node_modules ]; then
 			(   cd node_modules || exit $?
