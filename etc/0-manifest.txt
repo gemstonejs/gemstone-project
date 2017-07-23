@@ -37,4 +37,5 @@ gemstone-stub                REPO PKG
 gemstone-project             REPO
 gemstone-artwork             REPO
 gemstone-website             REPO
+gemstone-testdrive           REPO
 
